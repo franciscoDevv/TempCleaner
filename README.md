@@ -59,6 +59,31 @@ El archivo simplemente pesa 86 bytes, lo cual es la nada misma.
 
 2.- Clonando el repositorio
 
+Para este paso deberas tener instalado Git.
+
+> Nota: Si no sabes como instalarlo, aqui te dejo un [tutorial](https://medium.com/laboratoria-how-to/c%C3%B3mo-instalar-git-368c78187b51#:~:text=Para%20empezar%2C%20entra%20a%20la,bot%C3%B3n%20de%20Downloads%20for%20Windows.&text=Una%20vez%20descargada%2C%20dale%20click,cual%20debemos%20responder%20que%20s%C3%AD.)
+
+Primero nos dirigiremos al escritorio con:
+
+``cd desktop``
+
+Y luego clonaremos el repositorio con:
+
+``git clone https://github.com/FrancisCode13/TempCleaner``
+
+Ahora tendremos el repositorio en nuestro escritorio
+
+![image](https://user-images.githubusercontent.com/77551844/114281625-5b2f2200-9a0d-11eb-84a9-b37960cb265b.png)
+
+Consiguiente a esto, entraremos en la carpeta, y podremos observar 2 archivos (La aplicación y este archivo que estas leeyendo y la carpeta de git) , Ignoraremos por completo el Readme y la carpeta de Git y Abriremos el archivo .bat
+
+![image](https://user-images.githubusercontent.com/77551844/114281646-8b76c080-9a0d-11eb-9a61-e2e4770b855b.png)
+
+
+
+
+
+
 
 
 
