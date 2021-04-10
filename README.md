@@ -18,5 +18,5 @@ Esto nos abrira una pestaña así:
 
 Consiguiente a esto escribiremos en el cuadro de diálogo lo siguiente:
 
-´´´%TEMP%´´´
+``%TEMP%``
 
