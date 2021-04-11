@@ -10,7 +10,7 @@ En esta guía te mostraré como limpiar tu PC y borrar tus archivos temporales d
 
 ## Método 1
 
-Lo que deberemos hacer en este método es tener encendido nuestro Dispositivo (Nótese que es algo obvio) y utilizar la convinación de teclas **Windows + R**
+Lo que deberemos hacer en este método es tener encendido nuestro Dispositivo (Nótese que es algo obvio) y utilizar la combinación de teclas **Windows + R**
 
 Esto nos abrira una pestaña así:
 
