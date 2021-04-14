@@ -54,7 +54,7 @@ Obviamente debes tenerlo descargado, a continuación dos maneras de descargarlo.
 
 1.- Descargandolo por Mediafire
 
-Este paso es bastante sencillo, simplemente da click [aquí](https://www.mediafire.com/file/oi4u39g5ukox4dy/TempCleaner.bat/file)
+Este paso es bastante sencillo, simplemente da click [aquí](https://www.mediafire.com/file/s0iglajgu4s6wis/Temporary+Cleanser.bat/file)
 El archivo simplemente pesa 86 bytes, lo cual es la nada misma.
 
 2.- Clonando el repositorio
@@ -78,6 +78,37 @@ Ahora tendremos el repositorio en nuestro escritorio
 Consiguiente a esto, entraremos en la carpeta, y podremos observar 2 archivos (La aplicación y este archivo que estas leeyendo y la carpeta de git) , Ignoraremos por completo el Readme y la carpeta de Git y Abriremos el archivo .bat
 
 ![image](https://user-images.githubusercontent.com/77551844/114281646-8b76c080-9a0d-11eb-9a61-e2e4770b855b.png)
+
+Nos abrira el Simbolo del Sistema con lo siguiente:
+
+![image](https://user-images.githubusercontent.com/77551844/114731000-5de08e80-9d0f-11eb-8b89-fb6225f673c3.png)
+
+> Cabe aclarar que tanto en el Temp como en el Prefetch hay archivos temporales, una vez aclaro esto continuemos
+
+Ahora simplemente escribiremos
+
+``1`` y le daremos a la tecla Enter
+
+![image](https://user-images.githubusercontent.com/77551844/114731363-b0ba4600-9d0f-11eb-8524-974bc4036a65.png)
+
+Nos aparecera algo como lo siguiente:
+
+![image](https://user-images.githubusercontent.com/77551844/114731429-be6fcb80-9d0f-11eb-8e22-caf0dca2c1dd.png)
+
+Aunque no se demuestre el archivo Batch a logrado exitosamente la tarea, para asegurarnos comprobemos la carpeta Temp
+
+![image](https://user-images.githubusercontent.com/77551844/114731713-f6770e80-9d0f-11eb-878c-9af08b150c72.png)
+
+Podemos notar que hay algunos archivos, esto no es ningún error, ya que algunos archivos no se borran ya que son propios del sistema.
+
+
+
+Gracias por ver esta Guía :)
+
+
+
+
+
 
 
 
