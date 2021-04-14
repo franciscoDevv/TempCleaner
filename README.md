@@ -55,7 +55,7 @@ Obviamente debes tenerlo descargado, a continuación dos maneras de descargarlo.
 1.- Descargandolo por Mediafire
 
 Este paso es bastante sencillo, simplemente da click [aquí](https://www.mediafire.com/file/s0iglajgu4s6wis/Temporary+Cleanser.bat/file)
-El archivo simplemente pesa 86 bytes, lo cual es la nada misma.
+El archivo simplemente pesa 756 bytes, lo cual es la nada misma.
 
 2.- Clonando el repositorio
 
